@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(40, 40, 137);
+}
+.container{
+    max-width: 500px;
+    margin: 3rem auto;
+    border: 2px solid;
+    border-radius: 6px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 25px,25px,25px,25px; 
+    background-color: rgb(243, 243,243);
+
+}
+label{
+    display: block;
+}
+input, textarea{
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.sendm{
+    border: 0;
+    background-color: #00FFFF;
+    padding: 2rem;
+    color: white;
+    margin: 1rem 0;
+cursor: pointer;
+align-self: hover;{
+   
+}
